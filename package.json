@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-languages",
+  "version": "1.0.0",
+  "description": "Language labels and icons for Bootstrap 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxiaox/bootstrap-languages.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "language",
+    "icon"
+  ],
+  "author": "jxiaox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jxiaox/bootstrap-languages/issues"
+  },
+  "homepage": "https://github.com/jxiaox/bootstrap-languages#readme"
+}
